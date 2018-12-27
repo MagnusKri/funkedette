@@ -1,6 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!"); // la til kommentar
+        int lol=1+0+1;
+        System.out.println("Hello World!" + lol); // la til kommentar
+
     }
 }
